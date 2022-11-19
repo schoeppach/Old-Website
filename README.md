@@ -1,3 +1,3 @@
 test the homepage with
 
-https://schoeppach.github.io/Website_with_html/
+https://schoeppach.github.io/Websites/1.Versuch/index.html
