@@ -1,3 +1,7 @@
 test the homepage with
 
-https://schoeppach.github.io/Websites/1.Website/index.html
+1.Versuch: https://schoeppach.github.io/Websites/1.Website/index.html
+
+2.Versuch: https://schoeppach.github.io/
+
+
